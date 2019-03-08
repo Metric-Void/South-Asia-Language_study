@@ -1,0 +1,5 @@
+# Build files
+_build/
+
+# VSCode Junk
+.vscode/
