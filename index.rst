@@ -7,6 +7,7 @@ South Asia Language Study
 =========================
 Indices and tables
 ------------------
+
 .. toctree::
     :maxdepth: 1
     :caption: Project Home
@@ -14,16 +15,30 @@ Indices and tables
 
     Introduction
 
+.. toctree::
+    :hidden:
+    :maxdepth: 1
+    :caption: Index by Language System
+    :name: index_ls
+   
+    lang_sys/indo
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Index by Language System
-   :name: index_ls
-   
-   lang_sys/indo_eur/index
+    :hidden:
+    :maxdepth: 1
+    :caption: Index by country/region
+    :name: index_cr
 
+    lang-cntry/india
+
+.. toctree::
+    :caption: Epilogue
+    :hidden:
+
+    docs/ref-downs.rst
 
 * :ref:`genindex`
+
 .. * :ref:`modindex`
 .. * :ref:`search`
 
