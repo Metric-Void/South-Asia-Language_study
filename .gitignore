@@ -3,3 +3,4 @@ _build/
 
 # VSCode Junk
 .vscode/
+.vs/

@@ -3,6 +3,7 @@ Referenced Articles
 
 .. |NelsonPDF| replace:: [PDF]
 .. |CensusXLSX| replace:: [XLSX]
+
 Here is a list of articles that were referenced in my project, and was originally open to the public for free download.
 
 *Matthew Nelson*, Life in a Dead Language: Modern Sanskrit as an Ultraminor Literature., 2017 |NelsonPDF|_

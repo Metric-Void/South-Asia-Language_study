@@ -12,4 +12,4 @@ Bihari is a group of Eastern Indo-Aryan languages. Here's a list of languages, a
 
 Among these languages, only Maithili is constitutionally recognised in India in 2003. Both Maithili and Bhojpuri is regognised in Nepal.
 
-.. bibliography:: ref-bihari.rst
+.. bibliography:: ref-bihari.bib
