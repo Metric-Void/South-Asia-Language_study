@@ -1,1 +1,0 @@
-These languages are no more being spoken by anyone, therefore considered "dead" languages.

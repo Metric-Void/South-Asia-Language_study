@@ -1,5 +1,8 @@
 Hindi
 =====
+.. contents::
+    :local:
+
 Hindi is the most common language in India, as shown in `Languages of India`_. It is also referred to as "Language of India". Despite that fact, it is not the national language of India - being strongly opposed by the people that does not speak Hindu, the Indian constitution did not list any language as national language. It is also spoken in other countries, like Fiji. However, there is an ongoing plan of promoting the progressive use of Hindu, and reducing the use of English in official purposes. Yet due to opposing opinions, no restriction is imposed on using English. :cite:`india-con`
 
 Dialects :cite:`masica1993indo`
@@ -26,6 +29,8 @@ Here's a map from *The Indo-Aryan Languages*. Each language is marked with color
 Devanagri Script
 ----------------
 Hindi is written in Devanagri script, a very complicated form of writing. Unlike most languages that have distinct characters, devanagri symbols represent phonetic elements and are often written in compounds. There're lots of variations for one single sound when diacritic is added. 
+
+Devanagri script is a branch of Brahmi Script. More on Devanagri Script and its history, relate to `Brahmi Script`_.
 
 Literatures :cite:`keay1920hist`
 --------------------------------
@@ -72,5 +77,6 @@ Munshi Premchand
 His real name is Dhanpat Rai Shrivastava. He is one of the most celebrated writers of India. Before him, Hindi literature was mostly about fairy tales, epics, entertainment and religion. He is the pioneer of bringing realism to Hindi prose literature.
 
 .. _Languages of India: ../lang-cntry/india.html
+.. _Brahmi Script: ../scripts/brahmi.html#devanagari
 
 .. bibliography:: ref-hindu.bib

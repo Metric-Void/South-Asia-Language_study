@@ -16,12 +16,11 @@ Indo-European is the language family with themost speakers. :cite:`Ethno` It is 
 
 The Indo-Aryan branch
 ---------------------
-Indo-Aryan languages are mostly related to Iranian languages to the west, and are colelctively called *Indo-Iranian* family, a major branch of *Indo_European* Family. They have similar features to Greek, but are more likely to be common innovations, rather than preserved features from the Indo-European dispersal.
+Indo-Aryan languages are mostly related to Iranian languages to the west, and are colelctively called *Indo-Iranian* family, a major branch of *Indo-European* Family. They have similar features to Greek, but are more likely to be common innovations, rather than preserved features from the Indo-European dispersal.
 
 History
 ~~~~~~~
 Indo-Aryan and Iranian speakers splitted no later than 2000 B.C. Rather than the geological distribution nowadays, it was a north/south division rather than a east/west one. The southern branch was Proto-Aryans, moving south via Central Asia, reaching south asia. They entered northwest India through Afghanistan and Bactria. The Bactria part is then occupied by Proto-Iranians.
-
 
 References
 ----------

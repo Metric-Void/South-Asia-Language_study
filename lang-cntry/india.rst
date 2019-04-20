@@ -7,12 +7,8 @@ India have as much as 22 official languages, each with descent amount of speaker
     :maxdepth: 1
     :caption: Indian Languages
 
-    ../langs/hindu.rst
-    ../langs/bengali.rst
-    ../langs/marathi.rst
-    ../langs/gujarati.rst
-    ../langs/punjabi.rst
-    ../langs/urdu.rst
+    ../langs/hindu
+    ../langs/urdu
     ../langs/bihari
 
 -------------------

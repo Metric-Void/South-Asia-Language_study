@@ -18,10 +18,13 @@ Indices and tables
 .. toctree::
     :hidden:
     :maxdepth: 1
-    :caption: Index by Language System
+    :caption: Indo-Aryan Languages
     :name: index_ls
    
     lang_sys/indo
+    langs/hindu
+    langs/urdu
+    langs/bihari
 
 .. toctree::
     :hidden:
@@ -30,6 +33,15 @@ Indices and tables
     :name: index_cr
 
     lang-cntry/india
+
+.. toctree::
+    :hidden:
+    :maxdepth: 1
+    :caption: Writing Scripts
+    :name: index_ws
+
+    scripts/brahmi
+    scripts/perso-arabic
 
 .. toctree::
     :caption: Epilogue
@@ -45,7 +57,7 @@ Indices and tables
 
 Project Idea
 ------------
-Languages appear and die over time, and there're many reasons for a language to disappear: Natural disaster causing the death of all speakers, invaded by another tribe, becoming unsuitable for new concepts, did not evolve over time, become obsolete and no one wants to speak it, being considered a low-level language(language for lower people) and avoided, etc. 
+Languages appear and die over time, and there're many reasons for a language to disappear: Natural disaster causing the death of all speakers, invaded by another tribe, becoming unsuitable for new concepts, did not evolve over time, become obsolete and no one wants to speak it, being considered a low-level language(language for lower people) and avoided, etc.
 
 I want to discover the specialties of each language(and dialects) that appeared in history, what aspect of life do they mainly focus on (have a large vocabulary in). We can also infer their daily life by looking at their vocabulary: if there's a word for something, namely "pot", then they must have invented pots at that time.
 

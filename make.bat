@@ -1,7 +1,7 @@
 @ECHO OFF
 
 pushd %~dp0
-
+set PATH = %PATH%;D:\Users\leezi\Documents\¿Î³Ì²ÄÁÏ\CWL208\graphvitz\bin
 REM Command file for Sphinx documentation
 
 if "%SPHINXBUILD%" == "" (

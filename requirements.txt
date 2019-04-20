@@ -3,3 +3,4 @@
 #
 ######## Sphinx Extensions ########
 sphinxcontrib-bibtex
+sphinxcontrib-plantuml
