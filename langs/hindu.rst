@@ -3,11 +3,11 @@ Hindi
 .. contents::
     :local:
 
-Hindi is the most common language in India, as shown in `Languages of India`_. It is also referred to as "Language of India". Despite that fact, it is not the national language of India - being strongly opposed by the people that does not speak Hindu, the Indian constitution did not list any language as national language. It is also spoken in other countries, like Fiji. However, there is an ongoing plan of promoting the progressive use of Hindu, and reducing the use of English in official purposes. Yet due to opposing opinions, no restriction is imposed on using English. :cite:`india-con`
+Hindi is the most common language in India, as shown in `Languages of India`_. It is also referred to as "Language of India". Despite that fact, it is not the national language of India - being strongly opposed by the people that do not speak Hindu, the Indian constitution did not list any language as the national language. It is also spoken in other countries, like Fiji. However, there is an ongoing plan of promoting the progressive use of Hindu, and reducing the use of English in official purposes. Yet due to opposing opinions, no restriction is imposed on using English. :cite:`india-con`
 
 Dialects :cite:`masica1993indo`
 -------------------------------
-There exist regional languages of the Hindi area, or "Hindi dialects". Some of them are closely related to standard Hindi, some more distant. Vernucular Hindi could be roughly classified as *Eastern Hindi* and *Western Hindi*. *Western Hindi* consists of *Braj*, *Kannauji* and *Bangaru*, while *Eastern Hindi* consists of *Awadhi*, *Bagheli*, and *Chhattisgarhi*. Here's a list of regions these languages are spoken:
+There exist regional languages of the Hindi area, or "Hindi dialects". Some of them are closely related to standard Hindi, some more distant. Vernacular Hindi could be roughly classified as *Eastern Hindi* and *Western Hindi*. *Western Hindi* consists of *Braj*, *Kannauji* and *Bangaru*, while *Eastern Hindi* consists of *Awadhi*, *Bagheli*, and *Chhattisgarhi*. Here's a list of regions these languages are spoken:
 
 **Western Hindi**:
 
@@ -26,15 +26,15 @@ Here's a map from *The Indo-Aryan Languages*. Each language is marked with color
 
 .. image:: hindi-vernicular.png
 
-Devanagri Script
+Devanagari Script
 ----------------
-Hindi is written in Devanagri script, a very complicated form of writing. Unlike most languages that have distinct characters, devanagri symbols represent phonetic elements and are often written in compounds. There're lots of variations for one single sound when diacritic is added. 
+Hindi is written in Devanagari script, a very complicated form of writing. Unlike most languages that have distinct characters, Devanagari symbols represent phonetic elements and are often written in compounds. There're lots of variations for one single sound when diacritic is added. 
 
-Devanagri script is a branch of Brahmi Script. More on Devanagri Script and its history, relate to `Brahmi Script`_.
+Devanagari script is a branch of Brahmi Script. More on Devanagari Script and its history, relate to `Brahmi Script`_.
 
-Literatures :cite:`keay1920hist`
+Literature:cite:`keay1920hist`
 --------------------------------
-Literatures in Hindi can be divided into several periods:
+Literature in Hindi can be divided into several periods:
 
 Early Bardic Chronicles (1150-1400)
 -----------------------------------
@@ -42,8 +42,8 @@ These are the earliest poetry written in Hindi. Developed during the conflict be
 
 Chand Bardai
 ^^^^^^^^^^^^
-Composer of *Prithviraj Raso*, in 69 books and over 100,000 verses. Consists of the history of that time and life of his patreon, mixed with legends and fictions. Therefore some of its content contradict with other works of the same period.
-The language used in this work is a transitional form, in which some strange expressions have been obsolete for long time.
+Composer of *Prithviraj Raso*, in 69 books and over 100,000 verses. Consists of the history of that time and life of his patron, mixed with legends and fictions. Therefore some of its content contradict with other works of the same period.
+The language used in this work is a transitional form, in which some strange expressions have been obsolete for a long time.
 He himself was born in 1159 and died in 1192. He was the ruler of Ajmer and Delhi. He was captured during the second battle of Tarain then slained.
 
 Jagnayak
@@ -70,7 +70,7 @@ The language he used was Awadhi, a dialect that belongs to Eastern Hindi. Howeve
 
 The Modern Period (1800 - )
 ----------------------------
-At the beginning of the 18th century, India get influenced by the western diaspora. The East India Company took over the government of vast areas of India. The introduction of printing facilities (presses) helped the distribution of literature, and technologies changed the life of local people in many ways. The Company encouraged vernacular Hindi literatures.
+At the beginning of the 18th century, India got influenced by the western diaspora. The East India Company took over the government of vast areas of India. The introduction of printing facilities (presses) helped the distribution of literature, and technologies changed the life of local people in many ways. The Company encouraged vernacular Hindi literature.
 
 Munshi Premchand
 ~~~~~~~~~~~~~~~~
